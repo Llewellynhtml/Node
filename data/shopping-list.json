@@ -1,0 +1,14 @@
+[
+  {
+    "name": "New Recipe",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "image": "Image URL"
+  },
+  {
+    "name": "mogodu",
+    "ingredients": "onion,",
+    "instructions": "No overheating",
+    "image": "Image URL"
+  }
+]
