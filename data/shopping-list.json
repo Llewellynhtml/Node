@@ -6,9 +6,15 @@
     "image": "Image URL"
   },
   {
-    "name": "mogodu",
-    "ingredients": "onion,",
-    "instructions": "No overheating",
+    "name": "Recipe",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "image": "Image URL"
+  },
+  {
+    "name": "beef",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
     "image": "Image URL"
   }
 ]
